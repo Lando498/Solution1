@@ -1,3 +1,6 @@
-﻿body
-{
+﻿body {
+    background-color: #9370DB;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 100px;
 }

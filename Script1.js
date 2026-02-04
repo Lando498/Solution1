@@ -47,7 +47,7 @@ document.getElementById('showBtn').onclick = function () {
     // Equivalent to Timer1.Start() (5000ms = 5 seconds)
     setTimeout(() => {
         showNextQuestion();
-    }, 5000);
+    }, 2000);
 };
 
 init();

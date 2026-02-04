@@ -1,0 +1,89 @@
+Central Processing Unit
+To process instructions and data
+ALU
+It performs calculations and logical operations
+It controls and coordinates the CPU
+They store data and instructions currently in use
+Random Access Memory
+Read Only Memory
+RAM is volatile and ROM is non-volatile
+It loses data when power is turned off
+It keeps data when power is turned off
+Hard disk drive
+A device used to enter data into a computer
+Keyboard
+A device used to display results from a computer
+Monitor
+Programs that run on a computer
+Software that controls the computer system
+Operating system
+Software designed to help the user perform tasks
+Word processor
+Software that manages computer hardware and software
+Manages memory
+A named storage location for data
+A value that does not change
+Storing a value in a variable
+Choosing between different paths in a program
+If statement
+Repeating a section of code
+For loop
+A structure that repeats code
+A loop that runs a set number of times
+A loop that runs until a condition is met
+A collection of values stored under one name
+To store multiple values efficiently
+An array with one dimension
+The position of an item in an array
+Data entered into a program
+The manipulation of data
+The result produced by a program
+Checks that data is reasonable
+Checks that data has been entered correctly
+Validation checks rules and verification checks accuracy
+Checks data is within acceptable limits
+Checks data is not left blank
+Checks data length is correct
+An error that causes incorrect output
+An error caused by incorrect program structure
+An error that occurs while the program is running
+Checking a program works correctly
+Typical valid data
+Valid data at the limits
+Invalid data
+A table used to follow a program step by step
+To check program logic
+A structured way to describe an algorithm
+To plan programs without using code
+A diagram that shows program flow
+Diamond
+Parallelogram
+A system that collects and processes data
+Analysis
+Requirements are identified
+Solutions are planned
+The system is built
+The system is checked for errors
+The system is reviewed
+Collecting data
+Forms
+Saving data for later use
+Manipulating data
+Presenting data
+A copy of data
+To prevent data loss
+A threat to data or systems
+Virus
+Software that blocks unauthorised access
+Malicious software
+Checking a user’s identity
+Password
+Scrambling data
+A group of connected computers
+To share resources
+A network using cables
+A network without cables
+Graphical User Interface
+A visual way to interact with a computer
+Command Line Interface
+A text-based way to interact with a computer

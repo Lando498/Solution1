@@ -1,0 +1,89 @@
+What does CPU stand for?
+What is the main job of the CPU?
+Name one part of the CPU.
+What does the ALU do?
+What does the Control Unit do?
+What are registers used for?
+What is RAM?
+What is ROM?
+State one difference between RAM and ROM.
+What does volatile memory mean?
+What does non-volatile memory mean?
+Give one example of secondary storage.
+What is an input device?
+Give one example of an input device.
+What is an output device?
+Give one example of an output device.
+What is software?
+What is system software?
+Give one example of system software.
+What is application software?
+Give one example of application software.
+What is an operating system?
+State one function of an operating system.
+What is a variable?
+What is a constant?
+What does assignment mean in programming?
+What is selection?
+Give one example of selection.
+What is iteration?
+Give one example of iteration.
+What is a loop?
+What is a count-controlled loop?
+What is a condition-controlled loop?
+What is an array?
+Why are arrays used?
+What is a 1D array?
+What is an index?
+What is input in a program?
+What is processing in a program?
+What is output in a program?
+What is validation?
+What is verification?
+State one difference between validation and verification.
+What is a range check?
+What is a presence check?
+What is a length check?
+What is a logic error?
+What is a syntax error?
+What is a runtime error?
+What is testing?
+What is normal test data?
+What is extreme test data?
+What is exceptional test data?
+What is a trace table?
+Why are trace tables used?
+What is pseudocode?
+Why is pseudocode used?
+What is a flowchart?
+What symbol is used for a decision in a flowchart?
+What symbol is used for input or output in a flowchart?
+What is an information system?
+State one stage of the information system lifecycle.
+What happens in the analysis stage?
+What happens in the design stage?
+What happens in the implementation stage?
+What happens in the testing stage?
+What happens in the evaluation stage?
+What is data capture?
+Give one method of data capture.
+What is data storage?
+What is data processing?
+What is data output?
+What is a backup?
+Why are backups important?
+What is a security risk?
+Give one example of a security risk.
+What is a firewall?
+What is malware?
+What is authentication?
+Give one example of authentication.
+What is encryption?
+What is a network?
+Why are networks used?
+What is a wired network?
+What is a wireless network?
+What does GUI stand for?
+What is a GUI?
+What does CLI stand for?
+What is a CLI?
